@@ -1,13 +1,9 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Snake Game",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Snake",
-  "start_url": "/",
+  "start_url": "/snake/snake_game.html",
   "theme_color": "#ffffff",
-  "description": "A fun snake game"
-"/snake/snake_game.html"
+  "background_color": "#000000",
+  "description": "A fun snake game",
+  "display": "fullscreen"
 }
